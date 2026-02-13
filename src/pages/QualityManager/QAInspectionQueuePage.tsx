@@ -11,7 +11,6 @@ import QALayout from "../../layout/QALayout";
 import StatsCard from "../../components/ui/StatsCard";
 import { TableToolbar } from "../../components/ui/TableToolbar";
 import { StatusBadge } from "../../components/ui/StatusBadge";
-import SeverityBadge from "../../components/ui/SeverityBadge";
 import Pagination from "../../components/ui/Pagination";
 import PageModal from "../../components/ui/PageModal";
 import ConfirmationModal from "../../components/ui/ConfirmationModal";
@@ -31,7 +30,6 @@ import {
   Eye,
   Package,
   FileText,
-  Calendar,
   Search,
   Archive,
 } from "lucide-react";

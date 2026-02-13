@@ -22,10 +22,7 @@ import {
   ShieldCheck,
   Clock,
   Download,
-  FileText,
   Lock,
-  Activity,
-  BarChart3,
 } from "lucide-react";
 
 // ------------------------------------------

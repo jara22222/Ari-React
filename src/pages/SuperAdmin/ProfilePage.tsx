@@ -135,7 +135,6 @@ function ProfilePage() {
   // --- Password strength ---
   const passwordStrength = useMemo(() => getPasswordStrength(newPassword), [newPassword]);
   const passwordsMatch = confirmPassword.length > 0 && newPassword === confirmPassword;
-  const passwordsMismatch = confirmPassword.length > 0 && newPassword !== confirmPassword;
 
   // --- Load theme ---
   useEffect(() => {

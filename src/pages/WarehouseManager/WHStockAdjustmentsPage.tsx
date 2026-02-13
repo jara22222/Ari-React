@@ -27,10 +27,6 @@ import {
   AlertTriangle,
   Plus,
   Eye,
-  ThumbsUp,
-  ThumbsDown,
-  Package,
-  FileText,
   Hash,
   Archive,
 } from "lucide-react";

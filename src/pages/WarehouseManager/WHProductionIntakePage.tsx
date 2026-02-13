@@ -12,7 +12,6 @@ import { TableToolbar } from "../../components/ui/TableToolbar";
 import { StatusBadge } from "../../components/ui/StatusBadge";
 import Pagination from "../../components/ui/Pagination";
 import PageModal from "../../components/ui/PageModal";
-import ConfirmationModal from "../../components/ui/ConfirmationModal";
 import Toast from "../../components/ui/Toast";
 import InputGroup from "../../components/ui/InputGroup";
 import IconSelect from "../../components/ui/IconSelect";
@@ -26,7 +25,6 @@ import {
   Eye,
   ArrowDownToLine,
   FileText,
-  MapPin,
   Hash,
   Archive,
 } from "lucide-react";

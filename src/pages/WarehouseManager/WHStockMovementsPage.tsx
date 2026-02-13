@@ -9,7 +9,6 @@ import React, { useState, useMemo } from "react";
 import WarehouseLayout from "../../layout/WarehouseLayout";
 import StatsCard from "../../components/ui/StatsCard";
 import { TableToolbar } from "../../components/ui/TableToolbar";
-import { StatusBadge } from "../../components/ui/StatusBadge";
 import Pagination from "../../components/ui/Pagination";
 import PageModal from "../../components/ui/PageModal";
 import Toast from "../../components/ui/Toast";
